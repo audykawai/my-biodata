@@ -62,6 +62,53 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>My Biodata</title>
+</head>
+<body>
+  <h1>Riwayat Pendidikan Audy</h1>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Tingkat Pendidikan</th>
+        <th>Tahun Lulus</th>
+        <th>Sekolah</th>
+        <th>Kota</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>TK</td>
+        <td>2007</td>
+        <td>Santo Petrus</td>
+        <td>Tuban</td>
+      </tr>
+      <tr>
+        <td>SD</td>
+        <td>2010</td>
+        <td>SDK Santo Petrus</td>
+        <td>Tuban</td>
+      </tr>
+      <tr>
+        <td>SMP</td>
+        <td>2016</td>
+        <td>SMP Katolik Ronggolawe</td>
+        <td>Tuban</td>
+      </tr>
+      <tr>
+        <td>SMA</td>
+        <td>2019</td>
+        <td>SMA Santa Maria</td>
+        <td>Malang</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
+
 </body>
 </html>
 <img src="Foto gue.jpg" alt="Foto Profil" class'Profile">
