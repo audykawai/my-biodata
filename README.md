@@ -1,1 +1,66 @@
 # my-biodata
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>riwayat pendidikan audy</h2>
+
+<table>
+  <tr
+   <th colspan="4">Table Riwayat Pendidikan </th>
+  </tr>
+  <tr>
+    <th>Tingkat Pendidikan</th>
+    <th>Tahun Lulus</th>
+    <th>Sekolah</th>
+    <th>Kota</th>
+  </tr>
+  <tr>
+    <td>TK</td>
+    <td>2007</td>
+    <td>Santo Petrus</td>
+    <td>Tuban</td>
+  </tr>
+  <tr>
+    <td>SD</td>
+    <td>2010</td>
+    <td>SDK Santo Petrus</td>
+    <td>Tuban</td>
+  </tr>
+  <tr>
+    <td>SMP</td>
+    <td>2016</td>
+    <td>SMP Katolik Ronggolawe</td>
+    <td>Tuban</td>
+  </tr>
+  <tr>
+    <td>SMA</td>
+    <td>2019</td>
+    <td>SMA Santa Maria</td>
+    <td>Malang</td>
+  </tr>
+  </tr>
+</table>
+
+</body>
+</html>
