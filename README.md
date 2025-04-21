@@ -1,7 +1,6 @@
 # my-biodata
-<img src="Foto gue.jpg" alt="Foto Profil" class="profile">
 <!DOCTYPE html>
-<html>
+<html><img src="Foto gue.jpg" alt="Foto Profil" class="profile">
 <head>
 <style>
 table {
