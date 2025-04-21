@@ -1,5 +1,6 @@
 # my-biodata
 <!DOCTYPE html>
+<img src="Foto gue.jpg" alt="Foto Profil" class'Profile">
 <html>
 <head>
 <style>
