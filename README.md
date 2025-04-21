@@ -1,6 +1,6 @@
 # my-biodata
 <!DOCTYPE html>
-<html><img src="Foto gue.jpg" alt="Foto Profil" class="profile">
+<html>
 <head>
 <style>
 table {
@@ -110,4 +110,3 @@ tr:nth-child(even) {
 
 </body>
 </html>
-<img src="Foto gue.jpg" alt="Foto Profil" class'Profile">
