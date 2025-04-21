@@ -1,9 +1,5 @@
 # my-biodata
 <!DOCTYPE html>
-my-biodata/
-├── index.html
-└── images/
-    └── Foto gue.jpg
 <html>
 <head>
 <style>
