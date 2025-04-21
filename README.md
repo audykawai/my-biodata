@@ -1,6 +1,9 @@
 # my-biodata
 <!DOCTYPE html>
-<img src="Foto gue.jpg" alt="Foto Profil" class'Profile">
+my-biodata/
+├── index.html
+└── images/
+    └── Foto gue.jpg
 <html>
 <head>
 <style>
